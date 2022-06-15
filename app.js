@@ -1,6 +1,2 @@
-console.log('hi');
-
-//dev
-
-
-console.log('dev23333')
+console.log("hi");
+console.log("test rose");
